@@ -1,0 +1,5 @@
+- 👋 Hi, I’m AkshathSai
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Microservices, Microsoft Azure
+- 💞️ I’m looking to collaborate on Java, Spring MVC, Spring Boot and Hibernate projects
+- 📫 Please feel free to reach me at akshathsaipittala009@gmail.com

@@ -1,5 +1,2 @@
-- 👋 Hi, I’m AkshathSai, A creative angled chill pill and a wagering programming enthusiast
+- 👋 Hi, I’m Akshath Sai, A creative angled chill pill and a wagering programming enthusiast
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 Currently exploring Microservices and various other Distributed computing patterns
-- 💞️ I’m looking to collaborate in the development of Full Stack Web Applications
-- 📫 Please feel free to reach me at akshathsai.pittala@outlook.com

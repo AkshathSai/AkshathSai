@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Akshath Sai, A creative angled chill pill and a wagering programming enthusiast
-- 👀 I’m interested in Full Stack Web Development
+- 👋 Hi, I’m Akshath Sai, I'm a creative angled chill pill and a wagering programming enthusiast with a passion for Full Stack Web Development.

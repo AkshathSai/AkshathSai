@@ -46,6 +46,7 @@ I'm a creative angled chill pill and a wagering programming enthusiast with a pa
 
 <a href="https://www.github.com/AkshathSai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/akshath-sai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://replit.com/@AkshathSai" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges

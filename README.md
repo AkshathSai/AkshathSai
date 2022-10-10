@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a creative angled chill pill and a wagering programming enthusiast with a passion for Full Stack Development.
+I'm a creative angled chill pill and a wagering programming enthusiast with a passion for Software Development.
 
 *   🌍  I'm based in Bangalore, IN
 *   ✉️  You can contact me at [akshathsai.pittala@outlook.com](mailto:akshathsai.pittala@outlook.com)

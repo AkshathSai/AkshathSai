@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshath Sai Pittala
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshath Sai Pittala 
 ===========================================================================================================================================
 
-Full Stack Developer
+Full Stack Developer 
 --------------------
 
 I'm a creative angled chill pill and a wagering programming enthusiast with a passion for Software Development.
@@ -11,6 +11,15 @@ I'm a creative angled chill pill and a wagering programming enthusiast with a pa
 *   🧠  I'm currently learning C++ and Operating System Concepts
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  Brogrammer Person!
+
+
+<!-- [![](https://visitcount.itsvg.in/api?id=AkshathSai&icon=2&color=12)](https://visitcount.itsvg.in)-->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<!-- ### 😂 Random Dev Meme <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+
 
 ### Skills 
 Programming languages
@@ -58,3 +67,8 @@ Others
                       href="http://www.github.com/AkshathSai"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=AkshathSai&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       href="http://www.github.com/AkshathSai"><img src="https://activity-graph.herokuapp.com/graph?username=AkshathSai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/AkshathSai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathSai&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+           
+           
+<!-- TROPHIES -->
+![](https://github-profile-trophy.vercel.app/?username=AkshathSai&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+                   

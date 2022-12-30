@@ -8,7 +8,7 @@ I'm a creative angled chill pill and a wagering programming enthusiast with a pa
 
 *   🌍  I'm based in Bangalore, IN
 *   ✉️  You can contact me at [akshathsai.pittala@outlook.com](mailto:akshathsai.pittala@outlook.com)
-*   🧠  I'm learning C++ and Operating System Concepts
+*   🧠  I'm currently learning C++ and Operating System Concepts
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  Brogrammer Person!
 

@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshath Sai Pittala 
-===========================================================================================================================================
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+===================================================================================================================
 
-Full Stack Developer 
+<!--Full Stack Developer 
 --------------------
 
 I'm a creative angled chill pill and a wagering programming enthusiast with a passion for Software Development.
@@ -10,16 +10,17 @@ I'm a creative angled chill pill and a wagering programming enthusiast with a pa
 *   ✉️  You can contact me at [akshathsai.pittala@outlook.com](mailto:akshathsai.pittala@outlook.com)
 *   🧠  I'm currently learning C++ and Operating System Concepts
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  Brogrammer Person!
+*   ⚡  Brogrammer Person! -->
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=AkshathSai&icon=2&color=12)](https://visitcount.itsvg.in)-->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light) -->
 
 <!-- ### 😂 Random Dev Meme <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
+<!--
 
 ### Skills 
 Programming languages
@@ -48,18 +49,21 @@ Others
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
+-->
                     
 ### Socials/Others
                   
 <p align="left">
+
 <!-- <a href="https://www.github.com/AkshathSai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>-->
+
 <a href="https://www.github.com/AkshathSai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <!-- <a href="https://www.linkedin.com/in/akshath-sai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> -->
 <a href="https://www.linkedin.com/in/akshath-sai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://replit.com/@AkshathSai" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="32" height="32" /></a>
-</p>
 
-### Badges
+<!--
+<a href="https://replit.com/@AkshathSai" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="32" height="32" /></a>
+</p>-->
 
 <b>My GitHub Stats</b>
 
@@ -73,5 +77,6 @@ Others
            
            
 <!-- TROPHIES -->
-![](https://github-profile-trophy.vercel.app/?username=AkshathSai&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!--
+![](https://github-profile-trophy.vercel.app/?username=AkshathSai&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
                    

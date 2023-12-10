@@ -23,8 +23,8 @@ Full Stack Web Development | Product Development | UI/UX Research & Design
 *   🤝  I'm open to collaboration
 *   ✉️  You can contact me at [akshathsai.pittala@outlook.com](mailto:akshathsai.pittala@outlook.com)
 *   😄  Pronouns: He/Him
-*   ⚡  Fun Fact: Did you know that the term "bug" to describe a glitch in systems predates computers by nearly a century? The term was used in engineering and early computing since at least the 1870s. But the story of a literal bug - a moth - causing a problem in the Mark II computer in 1947 popularized the term in computing. The moth was found trapped in a relay of the computer and the incident was logged as "first actual case of bug being found". This has since led to the use of the terms "debugging" and "bug" in the field of software engineering
-   
+<!--*   ⚡  Fun Fact: Did you know that the term "bug" to describe a glitch in systems predates computers by nearly a century? The term was used in engineering and early computing since at least the 1870s. But the story of a literal bug - a moth - causing a problem in the Mark II computer in 1947 popularized the term in computing. The moth was found trapped in a relay of the computer and the incident was logged as "first actual case of bug being found". This has since led to the use of the terms "debugging" and "bug" in the field of software engineering
+-->   
 
 <a href="https://github.com/AkshathSai"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathSai&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most used Languages" /></a>
 

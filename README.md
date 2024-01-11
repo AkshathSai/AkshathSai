@@ -7,7 +7,7 @@
 <img width="1512" alt="Profile card" src="https://github.com/AkshathSai/CinemaPass/assets/89769614/8b4fafb9-d97f-4bd5-8433-8af6c9e9159a">
 
 
-Hello! 👋 My name is Akshath Sai, Pittala. I'm from SASTRA University taking BS Computer Applications.
+Hello! 👋 My name is Akshath Sai, Pittala. I'm from SASTRA University pursuing Bachelors in Computer Applications.
 
 I've a huge interest in UX and UI design as well as coding ! Currently studying React.js, Graph QL, HTMX and being a successful UX and UI designer
 

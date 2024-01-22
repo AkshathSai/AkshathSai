@@ -18,9 +18,7 @@
 
 - 📫 How to reach me **akshathsai.pittala@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yfp1_dM1h9HjP01DctGQNsjDM8jjxWWW/view?usp=sharing](https://drive.google.com/file/d/1yfp1_dM1h9HjP01DctGQNsjDM8jjxWWW/view?usp=sharing)
-
-- ⚡ Fun fact **I was 18 when I got my first job at a Software Development company, which helped me develop leadership, communication and Programming skills.**
+- ⚡ Fun fact **I was 18 when I got my first job at a Software Development company, which helped me develop Leadership, Communication and Programming skills.**
 ---
 
 

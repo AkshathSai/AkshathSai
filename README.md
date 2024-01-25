@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/jaypavasiya">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Full+Stack+Developer;Java+Programmer%20|%20UX+UI+Enthusiast%20;Product%20Maker%20;Coder+by+heart+and+by+profession%20|+Blogger&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Full+Stack+Developer;Java+Programmer%20;%20UI+UX+Enthusiast%20|%20Product%20Maker%20;Coder+by+heart+and+by+profession%20|%20Blogger&center=true&width=500&height=50">
   </a>
 </p>
 

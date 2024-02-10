@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, there! 👋</h1>
 
 <img width="1512" alt="Profile card" src="https://github.com/AkshathSai/CinemaPass/assets/89769614/8b4fafb9-d97f-4bd5-8433-8af6c9e9159a">
 

@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkshathSai" alt="Akshath Sai" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Kubernetes**
+- 🌱 I’m currently learning **Python, C++, Kubernetes**
 
 - 💬 Ask me about **Open-source, webdev, microservices, UI/UX Design & Research, Kubernetes, Cloud**
 

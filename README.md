@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python, C++, Kubernetes**
 
-- 💬 Ask me about **Open-source, webdev, microservices, UI/UX Design & Research, Kubernetes, Cloud**
+- 💬 Ask me about **Open-source, Consumer Tech products, webdev, microservices, UI/UX Design & Research, Kubernetes, Cloud**
 
 - 📫 How to reach me **akshathsai.pittala@outlook.com**
 

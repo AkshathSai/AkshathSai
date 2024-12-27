@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **akshathsai.pittala@outlook.com**
 
-- ⚡ Fun fact **I was 18 when I got my first job as a Software Developer**
+- ⚡ Fun fact **I'm an early career Software Developer creating with pride from the age of 18.**
 ---
 
 
